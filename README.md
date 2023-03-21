@@ -1,6 +1,6 @@
 # Quantum Teleportation Protocol
 Implementation of the Quantum Teleportation Protocol through Qiskit using 3 qubits.
-### Circuit Creation
+### Circuit Initialization
 The teleportation circuit contains 3 qubits and 2 classical bits(crz, crx).
 ### Teleported qubit
 The state psi is randomly initialized. This is the state that will be teleported from Alice to Bob. The inverse gates of the initialization are also
